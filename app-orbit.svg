@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="420" viewBox="0 0 360 420" fill="none">
+  <!-- Reuses QuickStall's existing Android Orbital Q background paths. -->
+  <g stroke="#e45a20" stroke-width="30" stroke-linecap="round" opacity=".066">
+    <path d="M252 188C188 188 137 239 137 303C137 367 188 418 252 418C316 418 367 367 367 303C367 239 316 188 252 188Z"/>
+    <path d="M302 356L363 420"/>
+  </g>
+  <path d="M22 329C54 211 160 142 278 153C323 157 357 171 382 194" stroke="#008577" stroke-width="1.7" stroke-linecap="round" opacity=".12"/>
+  <path d="M70 427C128 333 238 277 354 291C366 292 376 294 386 297" stroke="#e45a20" stroke-width="1.4" stroke-linecap="round" opacity=".102"/>
+</svg>
